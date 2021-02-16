@@ -9,6 +9,9 @@ module.exports = {
   organizationName: 'ailinykh', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
+    prism: {
+      additionalLanguages: ['swift'],
+    },
     navbar: {
       title: 'My Site',
       logo: {
