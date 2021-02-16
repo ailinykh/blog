@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'ailinykh.com',
+  tagline: 'personal blog',
   url: 'https://ailinykh.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
