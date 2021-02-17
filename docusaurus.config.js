@@ -13,25 +13,11 @@ module.exports = {
       additionalLanguages: ['swift'],
     },
     navbar: {
-      title: 'My Site',
+      title: 'Developer Notes',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
-      },
-      items: [
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+      }
     },
     footer: {
       style: 'dark',
@@ -94,7 +80,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ailinykh/blog/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
