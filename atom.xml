@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ailinykh.com/</id>
+    <title>ailinykh.com Blog</title>
+    <updated>2021-02-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ailinykh.com/"/>
+    <subtitle>ailinykh.com Blog</subtitle>
+    <icon>https://ailinykh.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dependency Inversion Principle]]></title>
+        <id>dependency-inversion-principle</id>
+        <link href="https://ailinykh.com/dependency-inversion-principle"/>
+        <updated>2021-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dependency Inversion Principle is the last one from SOLID which stands for decoupling a system into an independent modules. It means that one part of a system should not depend from another one directly.]]></summary>
+    </entry>
+</feed>
