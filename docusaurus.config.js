@@ -23,6 +23,9 @@ module.exports = {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} ailinykh.com`,
     },
+    gtag: {
+      trackingID: '263459223',
+    },
   },
   presets: [
     [
