@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{77:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dependency-inversion","name":"dependency inversion","count":1,"permalink":"/tags/dependency-inversion"}')}}]);

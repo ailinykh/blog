@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{66:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Dependency Inversion Principle","permalink":"/dependency-inversion-principle"}]}')}}]);
