@@ -4,15 +4,22 @@
         <title>ailinykh.com Blog</title>
         <link>https://ailinykh.com/</link>
         <description>ailinykh.com Blog</description>
-        <lastBuildDate>Tue, 16 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Testing netwok requests with URLProtocol stubs]]></title>
+            <link>https://ailinykh.com/network-testing-with-url-protocol-stubbing</link>
+            <guid>network-testing-with-url-protocol-stubbing</guid>
+            <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Apple has a powerful URL Loading System which can be used in various ways with a bunch of most common URL schemes. It also includes the URLProtocol, a class that can intercept all network requests for different purposes. You can use it for analytics, testing, and even profiling your application.]]></description>
+        </item>
         <item>
             <title><![CDATA[Dependency Inversion Principle]]></title>
             <link>https://ailinykh.com/dependency-inversion-principle</link>
             <guid>dependency-inversion-principle</guid>
             <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Dependency Inversion Principle is the last one from SOLID which stands for decoupling a system into an independent modules. It means that one part of a system should not depend from another one directly.]]></description>
+            <description><![CDATA[The Dependency Inversion Principle is the last one from SOLID which stands for decoupling a system into independent modules. It means that one part of a system should not depend from another one directly.]]></description>
         </item>
     </channel>
 </rss>

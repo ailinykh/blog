@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{64:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"url-protocol","name":"urlprotocol","count":1,"permalink":"/tags/url-protocol"}')}}]);

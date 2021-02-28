@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{63:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Testing netwok requests with URLProtocol stubs","permalink":"/network-testing-with-url-protocol-stubbing"},{"title":"Dependency Inversion Principle","permalink":"/dependency-inversion-principle"}]}')}}]);
