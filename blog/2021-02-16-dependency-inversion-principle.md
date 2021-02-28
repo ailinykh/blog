@@ -8,11 +8,11 @@ author_image_url: https://avatars.githubusercontent.com/u/939390?s=400&v=4
 tags: [swift, SOLID, dependency inversion, architecture, ios]
 ---
 
-The Dependency Inversion Principle is the last one from [SOLID](https://en.wikipedia.org/wiki/SOLID) which stands for decoupling a system into an independent modules. It means that one part of a system should not depend from another one directly.
+The Dependency Inversion Principle is the last one from [SOLID](https://en.wikipedia.org/wiki/SOLID) which stands for decoupling a system into independent modules. It means that one part of a system should not depend from another one directly.
 
 Let's see an example.
 <!--truncate-->
-On the one hand we have a `ViewController` which is the part of _UI/Presentation Module_ and on the other hand we have some data source which can be a part of _Networking/Persistence Module_. Let's say it is an `URLSession` object.
+On the one hand, we have a `ViewController` which is the part of _UI/Presentation Module_, and on the other hand, we have some data source which can be a part of _Networking/Persistence Module_. Let's say it is an `URLSession` object.
 
 ```swift
 class ViewController: UIViewController {
@@ -30,18 +30,18 @@ class ViewController: UIViewController {
 
 <br/>
 
-This code can be represented by a following diagram
+This code can be represented by a diagram
 
 <div style={{textAlign: 'center'}}> 
 
 ![ViewController dependency diagram](/assets/2021/dependency-inversion-diagram.svg)
 </div>
 
-The `UIViewController` depends from `URLSession` and it means that `URLSession` __can't__ be replaced with another _Network_ client such as [Alamofire](https://github.com/Alamofire/Alamofire) without changing the _Presentation Module_.
+The `UIViewController` depends from `URLSession`, and it means that `URLSession` __can't__ be replaced with another _Network_ client such as [Alamofire](https://github.com/Alamofire/Alamofire) without changing the _Presentation Module_.
 
 ## Solution
 
-This problem can be solved with Dependency Inversion just by adding another abstraction between this two concrete implementations. Some kind of protocol that can live in _Presentation Module_ and the _Network Module_ can conform to it.
+This problem can be solved with Dependency Inversion just by adding another abstraction between concrete implementations. Some kind of protocol that can live in _Presentation Module_ and the _Network Module_ can conform to it.
 
 <div style={{textAlign: 'center'}}> 
 
@@ -68,14 +68,14 @@ class ViewController: UIViewController {
     }
 }
 ```
-Now you can have two separate implementations of `HTTPClient` protocol and they both can live in _Network Module_
+Now you can have two separate implementations of `HTTPClient` protocol, and they both can live in _Network Module_
 
 <div style={{textAlign: 'center'}}> 
 
 ![ViewController dependency diagram](/assets/2021/dependency-inversion-diagram-3.svg)
 </div>
 
-This is the way you invert the dependencies from one module to another and now you can easily switch between two concrete implementations of `HTTPClient` from _Networking Module_.
+This is the way you invert the dependencies from one module to another, and now you can easily switch between two concrete implementations of `HTTPClient` from _Networking Module_.
 <!-- so the protocol conformance can be achieved via extension:
 
 ```swift
