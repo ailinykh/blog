@@ -19,6 +19,6 @@
         <id>dependency-inversion-principle</id>
         <link href="https://ailinykh.com/dependency-inversion-principle"/>
         <updated>2021-02-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dependency Inversion Principle is the last one from SOLID which stands for decoupling a system into independent modules. It means that one part of a system should not depend from another one directly.]]></summary>
+        <summary type="html"><![CDATA[The Dependency Inversion Principle is the last one from SOLID stands for decoupling the system into independent modules. It means that one part of a system should not depend on another one directly.]]></summary>
     </entry>
 </feed>
