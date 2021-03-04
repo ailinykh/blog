@@ -24,7 +24,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} ailinykh.com`,
     },
     gtag: {
-      trackingID: '263459223',
+      trackingID: 'G-VPL1442NPW',
     },
   },
   presets: [
