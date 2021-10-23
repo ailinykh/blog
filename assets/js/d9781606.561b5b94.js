@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[721],{2887:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/dependency-inversion","name":"dependency inversion","count":1,"permalink":"/tags/dependency-inversion"}')}}]);

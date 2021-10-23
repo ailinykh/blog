@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[451],{7228:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/architecture","name":"architecture","count":1,"permalink":"/tags/architecture"}')}}]);

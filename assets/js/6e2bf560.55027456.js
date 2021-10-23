@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[885],{8184:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/swift","name":"swift","count":2,"permalink":"/tags/swift"}')}}]);

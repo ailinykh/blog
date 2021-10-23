@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[927],{9566:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/guide","name":"guide","count":1,"permalink":"/tags/guide"}')}}]);

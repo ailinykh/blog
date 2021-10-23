@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[228],{821:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/solid","name":"SOLID","count":1,"permalink":"/tags/solid"}')}}]);
