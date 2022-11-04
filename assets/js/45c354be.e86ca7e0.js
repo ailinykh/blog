@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[778],{5882:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/formula","name":"formula","count":1,"permalink":"/tags/formula"}')}}]);

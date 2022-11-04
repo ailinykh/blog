@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[621],{7331:function(a){a.exports=JSON.parse('{"label":"URLProtocol","permalink":"/tags/url-protocol","allTagsPath":"/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[621],{7331:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/url-protocol","name":"URLProtocol","count":1,"permalink":"/tags/url-protocol"}')}}]);
