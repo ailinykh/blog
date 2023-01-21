@@ -8,6 +8,10 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "ailinykh", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
   themeConfig: {
     prism: {
       additionalLanguages: ["swift"],
