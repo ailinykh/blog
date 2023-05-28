@@ -1,6 +1,5 @@
 ---
 slug: ffmpeg-cheatsheet
-draft: true
 title: FFMPEG cheatsheet
 author: Anton Ilinykh
 author_image_url: https://avatars.githubusercontent.com/u/939390?s=400&v=4
