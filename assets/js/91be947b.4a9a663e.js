@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[285],{818:function(a){a.exports=JSON.parse('{"label":"ios","permalink":"/tags/ios","allTagsPath":"/tags","count":2}')}}]);
