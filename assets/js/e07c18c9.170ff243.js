@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[3873],{2171:function(a){a.exports=JSON.parse('{"label":"ipsec","permalink":"/tags/ipsec","allTagsPath":"/tags","count":1}')}}]);
