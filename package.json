@@ -12,13 +12,13 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1",
-    "@docusaurus/theme-mermaid": "^2.4.1",
-    "@mdx-js/react": "^1.6.21",
-    "clsx": "^1.1.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1",
+    "@docusaurus/theme-mermaid": "^3.8.1",
+    "@mdx-js/react": "^3.1.1",
+    "clsx": "^2.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   },
   "browserslist": {
     "production": [
