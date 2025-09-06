@@ -1,10 +1,7 @@
 ---
 slug: homebrew-formula-downgrade
 title: Homebrew package version downgrade
-author: Anton Ilinykh
-# author_title: Author
-# author_url: https://github.com/ailinykh
-author_image_url: https://avatars.githubusercontent.com/u/939390?s=400&v=4
+authors: [anton]
 tags: [homebrew, package, formula, rollback, guide]
 ---
 

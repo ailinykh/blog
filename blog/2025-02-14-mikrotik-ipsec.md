@@ -1,8 +1,7 @@
 ---
 slug: mikrotik-ipsec-l2tp-bgp-routing
 title: Mikrotik versus Roskomnadzor
-author: Anton Ilinykh
-author_image_url: https://avatars.githubusercontent.com/u/939390?s=400&v=4
+authors: [anton]
 tags: [mikrotik, ipsec, l2tp, bgp, dns, роскомнадзор, "обход блокировок"]
 ---
 
