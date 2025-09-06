@@ -1,6 +1,6 @@
 ---
 slug: mikrotik-ipsec-l2tp-bgp-routing
-title: Mikrotik versus Roskomnadzor
+title: Mikrotik vs Roskomnadzor
 authors: [anton]
 tags: [mikrotik, ipsec, l2tp, bgp, dns, роскомнадзор, "обход блокировок"]
 ---
