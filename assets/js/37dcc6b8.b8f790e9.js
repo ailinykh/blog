@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[6427],{6977:a=>{a.exports=JSON.parse('{"tag":{"label":"swift","permalink":"/tags/swift","allTagsPath":"/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/tags/swift","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

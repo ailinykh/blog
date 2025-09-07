@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[3032],{8322:e=>{e.exports=JSON.parse('{"authors":[{"name":"Anton Ilinykh","title":"Software Engineer","imageURL":"https://avatars.githubusercontent.com/u/939390?s=400&v=4","key":"anton","page":null,"count":6}]}')}}]);

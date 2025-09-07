@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[351],{7881:function(a){a.exports=JSON.parse('{"label":"l2tp","permalink":"/tags/l-2-tp","allTagsPath":"/tags","count":1}')}}]);

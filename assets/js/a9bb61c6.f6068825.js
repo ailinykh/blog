@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[5893],{1838:function(e){e.exports=JSON.parse('{"label":"homebrew","permalink":"/tags/homebrew","allTagsPath":"/tags","count":1}')}}]);

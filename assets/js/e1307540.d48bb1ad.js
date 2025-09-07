@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[8684],{204:t=>{t.exports=JSON.parse('{"tag":{"label":"testing","permalink":"/tags/testing","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/testing","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

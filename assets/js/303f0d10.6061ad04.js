@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[5866],{5090:a=>{a.exports=JSON.parse('{"tag":{"label":"bgp","permalink":"/tags/bgp","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/bgp","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

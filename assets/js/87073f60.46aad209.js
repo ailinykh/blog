@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[947],{134:function(a){a.exports=JSON.parse('{"label":"bgp","permalink":"/tags/bgp","allTagsPath":"/tags","count":1}')}}]);

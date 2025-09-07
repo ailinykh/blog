@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[4590],{3870:a=>{a.exports=JSON.parse('{"tag":{"label":"tunnel","permalink":"/tags/tunnel","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/tunnel","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkailinykh_com=self.webpackChunkailinykh_com||[]).push([[5835],{9362:a=>{a.exports=JSON.parse('{"tag":{"label":"guide","permalink":"/tags/guide","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/guide","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
