@@ -9,7 +9,7 @@ For research purposes, you may need to access certain resources from [Roskomnadz
 
 There are five small steps to bypass the blacklist using a MikroTik router and an IPsec/L2TP connection on a simple VPS running a Docker container.
 
-<!--truncate-->
+<!-- truncate -->
 
 ### Step I. Run IPSeC server
 

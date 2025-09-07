@@ -6,7 +6,7 @@ tags: [swift, URLProtocol, testing, networking, ios]
 ---
 
 Apple has a powerful [URL Loading System](https://developer.apple.com/documentation/foundation/url_loading_system) which can be used in various ways with a bunch of most common URL schemes. It also includes the [URLProtocol](https://developer.apple.com/documentation/foundation/urlprotocol), a class that can intercept all network requests for different purposes. You can use it for analytics, testing, and even profiling your application.
-<!--truncate-->
+<!-- truncate -->
 All you need to do is to subclass the `URLProtocol` and override nessesary methods.
 ```swift
 class URLProtocolStub: URLProtocol {

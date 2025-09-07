@@ -7,7 +7,7 @@ tags: [homebrew, package, formula, rollback, guide]
 
 Nowadays rollback to any particular version of the Homebrew package might be tricky since the commands `brew versions <package>` and `brew switch <package> <version>` are deprecated and no more available.
 
-<!--truncate-->
+<!-- truncate -->
 
 First, you should check if any other versions are available for your package:
 ```bash

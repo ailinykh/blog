@@ -7,7 +7,7 @@ tags: [ffmpeg, cheatsheet]
 
 Here you can find some usefull tips of using ffmpeg library
 
-<!--truncate-->
+<!-- truncate -->
 
 ::::tip a sample video file to play with
 

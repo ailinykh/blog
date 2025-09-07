@@ -9,7 +9,7 @@ The Dependency Inversion Principle is the last one from [SOLID](https://en.wikip
 
 Let's see an example.
 
-<!--truncate-->
+<!-- truncate -->
 
 On the one hand, we have a `ViewController` which is the part of _UI/Presentation Module_, and on the other hand, we have some data source which can be a part of _Networking/Persistence Module_. Let's say it is an `URLSession` object.
 
