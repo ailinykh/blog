@@ -19,9 +19,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: bun ci
+        run: yarn install --frozen-lockfile
       - name: Build website
-        run: bun run build
+        run: yarn build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
