@@ -1,6 +1,6 @@
 module.exports = {
   title: "ailinykh.com",
-  tagline: "personal blog",
+  tagline: "Pragmatic Software Engineer building simple, fast, reliable systems",
   url: "https://ailinykh.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -26,7 +26,7 @@ module.exports = {
       },
     },
     footer: {
-      style: "dark",
+      style: "light",
       copyright: `Copyright © ${new Date().getFullYear()} ailinykh.com`,
     },
   },
