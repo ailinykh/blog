@@ -7,6 +7,7 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "ailinykh", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
+  trailingSlash: false,
   markdown: {
     mermaid: true,
     hooks: {
