@@ -4,12 +4,14 @@ module.exports = {
   url: "https://ailinykh.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "ailinykh", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
   themes: ["@docusaurus/theme-mermaid"],
   themeConfig: {
