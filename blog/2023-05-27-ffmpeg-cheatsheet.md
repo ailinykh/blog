@@ -9,7 +9,7 @@ Here you can find some usefull tips of using ffmpeg library
 
 <!-- truncate -->
 
-::::tip a sample video file to play with
+::::info a sample video file to play with
 
 ```
 curl -o input.mp4 https://www.w3schools.com/html/mov_bbb.mp4
