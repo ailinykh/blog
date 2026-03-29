@@ -20,7 +20,7 @@ module.exports = {
       additionalLanguages: ["swift"],
     },
     navbar: {
-      title: "Developer Notes",
+      title: "Complex problems. Simple solutions.",
       logo: {
         alt: "Logo",
         src: "img/logo.svg",
